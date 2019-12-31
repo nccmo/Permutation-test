@@ -1,5 +1,5 @@
 # Permutation Test
-This is a script to identify gens significantly affected by multiple mutaetions (MMs) using permutation test.
+This is a script to identify gens significantly affected by multiple mutations (MMs) using permutation test.
 
 
 ## Dependency
